@@ -1,2 +1,6 @@
 # hello-world
-a repository
+
+Hi there!
+
+I have no idea what I'm doing.
+My dog ate my homework.
